@@ -3,8 +3,8 @@ require 'vendor/mgp25/instagram-php/src/Instagram.php';
 // =================
 // = Configuration =
 // =================
-$username = 'maxtubular';
-$password = 'maxrr1234';
+$username = '';
+$password = '';
 $path_to_the_source_file = '17k_New.csv';
 $lines_to_read = 106000; // CHANGE THIS FOR DECIDE HOW MANY RECORDS TO READ (put the exact number of lines of the source file or a partial if you want to just to test it)
 $path_to_file_of_results = 'results.csv';
