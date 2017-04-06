@@ -1,12 +1,12 @@
 # READ ME
 
-## DOWNLOAD THE CSV VERSION OF THE DOCS
+## download the csv version of the docs
 ### for both the versions of the script (sqlite/csv)
 
 ![download CSV](http://i.imgur.com/9STt0pe.png "How to download CSV")
 
 
-**THE ONLY DEPENDENCIES NEEDED FOR THIS SCRIPT IS TO HAVE  PHP 5 INSTALLATION WITH ENABLED THE PHP-CURL, GD AND SQLITE MODULES ENABLED. THE FIRSTS TWO ARE NEEDED FROM THE INSTAGRAM LIBRARY AND THE LAST ONE IS NEEDED ONLY IF YOU FOLLOW MY STEPS AND USE** `parser.php` and **not** `parser_from_csv.php`
+**the only dependencies needed for this script is to have  php 5 installation with enabled the php-curl, gd and sqlite modules enabled. the firsts two are needed from the instagram library and the last one is needed only if you follow my steps and use** `parser.php` and **not** `parser_from_csv.php`
 
 How to launch it:
 
