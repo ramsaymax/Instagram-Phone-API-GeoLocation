@@ -3,8 +3,8 @@ require 'vendor/mgp25/instagram-php/src/Instagram.php';
 // =================
 // = Configuration =
 // =================
-$username = 'maxtubular';
-$password = 'maxrr1234';
+$username = '';
+$password = '';
 $path_to_db_file = 'insta_accounts.sqlite';
 $path_to_file_of_results = 'results.csv';
 $path_to_file_of_userid_made = 'userids_made.csv';
